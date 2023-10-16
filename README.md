@@ -1,2 +1,6 @@
 # sf_data_science
-Repository for some projects in study of SkillFactory
+Hello, this is my first projects on GitHub. (https://github.com/Fanoxis/sf_data_science)
+
+# Проекты
+
+* [0.Проект: Угадай число](https://github.com/Fanoxis/sf_data_science/game_1)
