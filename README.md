@@ -3,4 +3,4 @@ From the [SkillFactory Data Science course](https://github.com/Fanoxis/sf_data_s
 
 ## My Projects
 
-* [Проект 0. Игра: Угадай число](https://github.com/Fanoxis/sf_data_science/tree/main/Guess_the_number)
+* [0.Проект: Угадай число](https://github.com/Fanoxis/sf_data_science/main/game_1)
