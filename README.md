@@ -1,6 +1,6 @@
-# sf_data_science
-Hello, this is my first projects on GitHub. (https://github.com/Fanoxis/sf_data_science)
+## Hello, this is my first GitHub page
+From the [SkillFactory Data Science course](https://github.com/Fanoxis/sf_data_science)
 
-# Проекты
+## My Projects
 
-* [0.Проект: Угадай число](https://github.com/Fanoxis/sf_data_science/tree/main/game_1)
+* [Проект 0. Игра: Угадай число](https://github.com/Fanoxis/sf_data_science/tree/main/Guess_the_number)
